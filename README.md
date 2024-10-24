@@ -178,9 +178,10 @@ int main() {
    return 0;
 }
 ~~~
-Outputs :
+## Outputs :
+### 1.
+![image](https://github.com/user-attachments/assets/c81dccd5-c95c-42c9-b6b2-ef693b38039f)
 
-1.
-Screenshot 2024-09-27 120454
+### 2.
+![image](https://github.com/user-attachments/assets/5bff7314-ffa2-4027-824d-8d24a199f5f3)
 
-2.
